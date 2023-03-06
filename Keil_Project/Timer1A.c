@@ -2,6 +2,7 @@
 // Runs on LM4F120/TM4C123
 // Use TIMER1 in 32-bit periodic mode to request interrupts at a periodic rate
 // Kevin Martinez
+// Jesus Perez
 // Feb 2023
 
 #include <stdint.h>
